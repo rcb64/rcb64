@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rcb64
-- 👀 I’m interested in computational chemistry and machine learning
+- 👀 Transitioning from pharma into software engineering and data science
 - 🌱 I’m currently learning: Python and R for data analysis and visualization, Machine learning fundamentals and frameworks (Scikit-learn, TensorFlow), Enhancing skills in Git workflows and open-source contribution.
-- 💞️ I’m looking to collaborate on projects with a focus on healthcare and drug discovery
+- 💞️ Passionate about biotech innovation and solving complex problems through code
 - 📫 How to reach me (radubizga@icloud.com)
 - 😄 Pronouns: he/him
 
