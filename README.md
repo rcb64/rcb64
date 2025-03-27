@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rcb64
-- 👀 Computational chemist with interests in computational pathology, AI driven drug dicsovery and molecular simulation
-- 🌱 I’m currently learning: Python and R for cheminformatics, Machine learning fundamentals and frameworks (Scikit-learn, TensorFlow), TypeScript (for website development), containerisation, DFT.
+- 👀 Computational chemist with interests in computational pathology, AI driven drug dicsovery, molecular simulations and FEP methods. 
 - 💞️ Passionate about biotech innovation and solving complex problems through code
 - 📫 How to reach me (radubizga@icloud.com)
 - 😄 Pronouns: he/him
